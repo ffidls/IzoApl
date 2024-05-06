@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IzoApl</string>
+    <string name="isometric_map">Map</string>
+    <string name="left_button">left</string>
+    <string name="right_button">right</string>
+
+    <string name="left_move">left move</string>
+    <string name="right_move">right move</string>
+</resources>
